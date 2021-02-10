@@ -10,4 +10,4 @@ def display_board(board)
   puts "   |   |   "
 end
 
-print display_board(board)
+print display_board(4:X)
