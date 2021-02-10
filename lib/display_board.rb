@@ -9,3 +9,5 @@ def display_board(board)
   puts "-----------"
   puts "   |   |   "
 end
+
+print display_board
