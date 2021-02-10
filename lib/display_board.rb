@@ -10,4 +10,4 @@ def display_board(board)
   puts "   |   |   "
 end
 
-print display_board([" ", " ", " ", " ", "X", " ", " ", " ", " "])
+print board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
