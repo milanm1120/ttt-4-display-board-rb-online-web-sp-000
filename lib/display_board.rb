@@ -10,3 +10,4 @@ def display_board(board)
 end
 
 puts display_board(board)
+puts display_board("#{board[5]}<<X")
